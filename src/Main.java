@@ -4,8 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello and welcome!");
         for (int i = 1; i <= 5; i++) {
-            System.out.println ("index i is " + i);
+            System.out.println ("the value of the index i is " + i);
         }
-        // this is a comment line to test the git
     }
 }
